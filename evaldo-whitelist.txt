@@ -1,2 +1,2 @@
-0.0.0.0 prodata.tradingview.com
-0.0.0.0 pushstream.tradingview.com
+prodata.tradingview.com
+pushstream.tradingview.com
